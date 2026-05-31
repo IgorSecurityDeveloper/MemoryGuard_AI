@@ -1,5 +1,3 @@
-# MemoryGuard_AI
-
 # MemoryGuard AI
 
 **MemoryGuard AI** is a security-oriented monitoring project designed to collect, process, and analyze memory-related events from distributed environments. The project is being developed as a hands-on study and portfolio initiative focused on **Support Engineering, Cybersecurity, backend systems, observability, and event-driven architecture**.
